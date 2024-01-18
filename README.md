@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Ailishev</h1>
+  <p align="center" >Hi everyone!</p>
 </div>
 <div id="links" align="center">
   <p>Связь со мной</p>
