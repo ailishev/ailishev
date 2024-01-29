@@ -26,7 +26,4 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </div>
-```cpp
-const char* telegram = "https://t.me/mystecode";
-const char* vk = "https://vk.com/pasterbugtracker";
-```
+
