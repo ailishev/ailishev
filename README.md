@@ -1,6 +1,4 @@
-# Мой Технологический Стек
-
-Добро пожаловать! Вот технологии, с которыми я работаю:
+# 💻 Мой Технологический Стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,20 +19,36 @@
 
 ---
 
-## Описание
+## 🧑‍💻 Навыки
 
-Здесь можно найти проекты, над которыми я работал, а также технологии, которые я использую в своей работе. 
+### 🌐 Frontend
+- **HTML**: Семантическая разметка, лучшие практики
+- **CSS**: Адаптивный дизайн, Flexbox, Grid
+- **JavaScript**: ES6+, асинхронное программирование
+- **React**: Хуки, контекст API, Next.js
+- **SCSS/Sass**: Переменные, миксины, вложенность
 
-## Навыки
+### ⚙️ Backend
+- **Node.js**: Express, API разработка
+- **Prisma**: ORM для Node.js и TypeScript
+- **Docker**: Контейнеризация приложений
 
-- **Frontend**: HTML, CSS, JavaScript, React, SCSS, Sass
-- **Backend**: Node.js, Prisma, Docker, Postman
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Other**: C++, npm
+### 🗄 Базы данных
+- **PostgreSQL**: Проектирование схем, оптимизация запросов
+- **MySQL**: Реляционные базы данных
+- **MongoDB**: NoSQL базы данных, агрегации
+
+### 🔧 Другие технологии
+- **C++**: Системное программирование, алгоритмы
+- **npm**: Управление пакетами, скрипты
 
 ---
 
-## Статистика GitHub
+## 📈 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+---
