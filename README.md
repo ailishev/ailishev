@@ -9,21 +9,21 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### Backend
+### 🛠 Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 </p>
 
-### Базы данных
+### 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-### Инструменты
+### 🔧 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
@@ -32,27 +32,21 @@
   <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/>
 </p>
 
-### Операционные системы
+### 🖥️ Operating Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-### Прочее
+### 🌐 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
 </p>
 
-## 🛠 Навыки
-
-- 🌐 **Frontend**: HTML, CSS, JavaScript (ES6+), React, SCSS, Next.js
-- ⚙️ **Backend**: Node.js, Prisma, Express.js
-- 🗄 **Базы данных**: PostgreSQL, MySQL, MongoDB
-- 🔧 **Инструменты**: Docker, npm, Git, VS Code, CLion
-- 💻 **Операционные системы**: Windows, macOS, Linux
-- 🔍 **Прочее**: C++, Lua
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical" alt="GitHub Stats"/>
