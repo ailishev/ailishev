@@ -1,5 +1,21 @@
+<h1 align="center">🌟 Приветствую на моем GitHub! 🌟</h1>
+<p align="center">
+  <a href="https://github.com/ailishev">
+    <img src="https://img.shields.io/badge/Visit%20My%20Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
 # 💻 Технологический Стек
 
+## 🌐 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FF5733?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -9,21 +25,21 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### 🛠 Backend
+## 🛠 Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+## 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+## 🔧 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
@@ -32,14 +48,14 @@
   <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/>
 </p>
 
-### 🖥️ Operating Systems
+## 🖥️ Operating Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-### 🌐 Languages
+## 🌈 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -47,7 +63,6 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<h3 align="center">✨ Спасибо за внимание! ✨</h3>
