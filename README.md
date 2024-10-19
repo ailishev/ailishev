@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ailishev&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ailishev&style=flat-square&color=brightgreen" alt="Profile views" />
 </div>
 
 <details align="left">
@@ -24,10 +24,10 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailishev&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ailishev&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/ailishev" />
   </p>
 </details>
