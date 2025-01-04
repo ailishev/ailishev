@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hello! I'm Ailishev </h1>
-
+<h1 align="center">👋 Hey there, i’m Denis! </h1>
+<p>16 y.o. developer from UA.</p>
+<p>i’m Software Developer</p>
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
