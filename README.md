@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, i’m Denis! </h1>
+<h1 align="center">👋 Привет, меня зовут Денис! </h1>
 <p>16 y.o. developer from UA.</p>
 <p>i’m Software Developer</p>
 <p align="center">
@@ -9,8 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=ailishev&style=flat-square&color=brightgreen" alt="Profile views" />
 </div>
 
+<h1>🚀 Немного обо мне</h1>
+<p>Разрабатываю на JS, TS, C/C++, Java, Python, HTML & CSS</p>
+<p>Умею работать с React, Vue, NextJS, NestJS</p>
+<p>Люблю автоматизацию, оптимизацию и создание полезных инструментов.</p>
+
 <details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><h2><b>📚 Мой стэк технологий</b></h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=cs,cpp,py,java,html,css,postgres,mongodb&perline=7" />
