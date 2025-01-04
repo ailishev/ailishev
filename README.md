@@ -1,6 +1,4 @@
 <h1 align="center">👋 Привет, меня зовут Денис! </h1>
-<p>16 y.o. developer from UA.</p>
-<p>i’m Software Developer</p>
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
