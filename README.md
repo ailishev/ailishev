@@ -13,7 +13,7 @@
 <h1>🚀 About me</h1>
 <p>👨‍💻 Software Developer, Reverse Engineer, Security Researcher</p>
 
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <h2><b>📚 My stack</b></h2>
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,py,java,html,css&perline=7&theme=dark" style="border-radius: 10px;" />
@@ -29,11 +29,11 @@
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows,debian&perline=7&theme=dark" style="border-radius: 10px;" />
   </p>
 
-  <summary><h2><b>⭐ GitHub stats</b></h2></summary>
+ <h2><b>⭐ GitHub stats</b></h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailishev&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=ailishev&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
     <img src="https://metrics.lecoq.io/ailishev" />
-  </p>>
+  </p>
