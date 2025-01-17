@@ -14,7 +14,7 @@
 </div>
 
 <h1>🚀 About me</h1>
-<p>👨‍💻 **Software Developer**, **Reverse Engineer**, **Security Researcher**</p>
+<p>👨‍💻 <strong>Software Developer</strong>, <strong>Reverse Engineer</strong>, <strong>Security Researcher</strong></p>
 
   <h2><b>⚒️ My stack</b></h2>
   <p>
