@@ -1,4 +1,7 @@
-<h1>👋 Hi, I am Denis</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ailishev!;" />
+</h1>
+
 <p align="center">
   <img width="600" src="assets/github-snake.svg" alt="snake" />
 </p>
@@ -13,7 +16,7 @@
 <h1>🚀 About me</h1>
 <p>👨‍💻 Software Developer, Reverse Engineer, Security Researcher</p>
 
-  <h2><b>📚 My stack</b></h2>
+  <h2><b>⚒️ My stack</b></h2>
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,py,java,html,css&perline=7&theme=dark" style="border-radius: 10px;" />
