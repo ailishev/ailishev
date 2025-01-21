@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ailishev!;" />
 </h1>
 
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/ailishev/ailishev/main/assets/github-snake.svg" alt="snake" />
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ailishev&style=flat-square&color=brightgreen" alt="Profile views" />
@@ -49,7 +46,6 @@
 <h2 align="center"><b>📈 More Stats</b></h2>
 <div align="center">
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-  <img width="390" src="https://github-readme-activity-graph.cyclic.app/graph?username=ailishev&theme=react&bg_color=22272e&color=ffffff&line=2b2b2b&point=ffffff&area=true&radius=10&border_radius=10" alt="Activity Graph" />
 </div>
 
 <h2 align="center"><b>📊 Latest Activity</b></h2>
