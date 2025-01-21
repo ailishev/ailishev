@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/commits-since/ailishev/ailishev/main?style=flat-square" alt="Recent Commits" />
   <img src="https://img.shields.io/github/issues/ailishev?style=flat-square&color=purple" alt="Open Issues" />
   <img src="https://img.shields.io/github/pull-requests/ailishev?style=flat-square&color=red" alt="Open Pull Requests" />
-  <img src="https://img.shields.io/github/last-commit/ailishev/ailishev?style=flat-square&color=grey" alt="Last Commit" />
 </div>
 
 <h1 align="center">🚀 About me</h1>
@@ -50,10 +49,4 @@
 <h2 align="center"><b>🎯 GitHub Contributions</b></h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ailishev&theme=react&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<h2 align="center"><b>📊 Most Active Repositories</b></h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ailishev&repo=your-repo-name&theme=radical" alt="Pinned Repository" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ailishev&repo=another-repo-name&theme=radical" alt="Another Pinned Repository" />
 </div>
