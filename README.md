@@ -37,8 +37,8 @@
 
 <h2 align="center"><b>⭐ GitHub Stats</b></h2>
 <div align="center">
-  <img width="450" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ailishev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="450" src="https://github-readme-stats-salesp07.vercel.app/api?username=ailishev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ailishev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 </div>
 
 <h2 align="center"><b>📈 More Stats</b></h2>
