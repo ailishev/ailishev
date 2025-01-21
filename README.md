@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/github/stars/ailishev?style=flat-square&color=yellow" alt="Stars" />
   <img src="https://img.shields.io/badge/Repositories-Private%20%26%20Public-orange?style=flat-square" alt="Repositories" />
   <img src="https://img.shields.io/github/commits-since/ailishev/ailishev/main?style=flat-square" alt="Recent Commits" />
-  <img src="https://img.shields.io/github/commit-activity/m/ailishev?style=flat-square" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/issues/ailishev?style=flat-square&color=red" alt="Open Issues" />
 </div>
 
 <h1 align="center">🚀 About me</h1>
@@ -48,7 +46,3 @@
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
-<h2 align="center"><b>📊 Latest Activity</b></h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ailishev&theme=react&bg_color=22272e&color=ffffff&line=2b2b2b&point=ffffff&area=true&radius=10&border_radius=10" alt="Activity Feed" />
-</div>
