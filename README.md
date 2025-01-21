@@ -38,15 +38,5 @@
 
 <h2 align="center"><b>⭐ GitHub Stats</b></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical&hide=prs" alt="ailishev GitHub Stats" />
-</div>
-
-<h2 align="center"><b>📈 More Stats</b></h2>
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
-
-<h2 align="center"><b>🎯 GitHub Contributions</b></h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ailishev&theme=react&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=dark&hide=prs" alt="ailishev GitHub Stats" />
 </div>
