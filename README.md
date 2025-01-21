@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/github/stars/ailishev?style=flat-square&color=yellow" alt="Stars" />
   <img src="https://img.shields.io/badge/Repositories-Private%20%26%20Public-orange?style=flat-square" alt="Repositories" />
   <img src="https://img.shields.io/github/commits-since/ailishev/ailishev/main?style=flat-square" alt="Recent Commits" />
-  <img src="https://img.shields.io/github/issues/ailishev?style=flat-square&color=purple" alt="Open Issues" />
-  <img src="https://img.shields.io/github/pull-requests/ailishev?style=flat-square&color=red" alt="Open Pull Requests" />
 </div>
 
 <h1 align="center">🚀 About me</h1>
