@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="600" src="assets/github-snake.svg" alt="snake" />
+  <img width="600" src="https://raw.githubusercontent.com/ailishev/ailishev/main/assets/github-snake.svg" alt="snake" />
 </p>
 
 <div align="center">
@@ -11,31 +11,48 @@
   <img src="https://img.shields.io/github/followers/ailishev?style=flat-square&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ailishev?style=flat-square&color=yellow" alt="Stars" />
   <img src="https://img.shields.io/badge/Repositories-Private%20%26%20Public-orange?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/github/commits-since/ailishev/ailishev/main?style=flat-square" alt="Recent Commits" />
+  <img src="https://img.shields.io/github/commit-activity/m/ailishev?style=flat-square" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/issues/ailishev?style=flat-square&color=red" alt="Open Issues" />
 </div>
 
-<h1>🚀 About me</h1>
-<p>👨‍💻 <strong>Software Developer</strong>, <strong>Reverse Engineer</strong>, <strong>Security Researcher</strong></p>
+<h1 align="center">🚀 About me</h1>
+<p align="center">👨‍💻 <strong>Software Developer</strong>, <strong>Reverse Engineer</strong>, <strong>Security Researcher</strong></p>
 
-  <h2><b>⚒️ My stack</b></h2>
-  <p>
-    <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,py,java,html,css&perline=7&theme=dark" style="border-radius: 10px;" />
-    <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=cmake,gradle,spring,django,bootstrap,tailwind,react,vue,next,nodejs,expressjs,redux,nuxt,vite,webpack,flask&perline=7&theme=dark" style="border-radius: 10px;" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,vscode,pycharm,ultimate,figma,photoshop,blender&perline=7&theme=dark" style="border-radius: 10px;" />
-    <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=7&theme=dark" style="border-radius: 10px;" />
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=hibernate,githubactions,docker,git&perline=7&theme=dark" style="border-radius: 10px;" />
-    <h3>OS</h3>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows,debian&perline=7&theme=dark" style="border-radius: 10px;" />
-  </p>
+<h2 align="center"><b>⚒️ My stack</b></h2>
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,py,java,html,css&perline=7&theme=dark" style="border-radius: 10px;" />
+  
+  <h3>Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=cmake,gradle,spring,django,bootstrap,tailwind,react,vue,next,nodejs,expressjs,redux,nuxt,vite,webpack,flask&perline=7&theme=dark" style="border-radius: 10px;" />
+  
+  <h3>Software</h3>
+  <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,vscode,pycharm,ultimate,figma,photoshop,blender&perline=7&theme=dark" style="border-radius: 10px;" />
+  
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=7&theme=dark" style="border-radius: 10px;" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=hibernate,githubactions,docker,git&perline=7&theme=dark" style="border-radius: 10px;" />
+  
+  <h3>OS</h3>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows,debian&perline=7&theme=dark" style="border-radius: 10px;" />
+</div>
 
- <h2><b>⭐ GitHub stats</b></h2>
-  <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ailishev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ailishev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+<h2 align="center"><b>⭐ GitHub Stats</b></h2>
+<div align="center">
+  <img width="450" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ailishev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="450" src="https://github-readme-stats-salesp07.vercel.app/api?username=ailishev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
+<h2 align="center"><b>📈 More Stats</b></h2>
+<div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="390" src="https://github-readme-activity-graph.cyclic.app/graph?username=ailishev&theme=react&bg_color=22272e&color=ffffff&line=2b2b2b&point=ffffff&area=true&radius=10&border_radius=10" alt="Activity Graph" />
+</div>
+
+<h2 align="center"><b>📊 Latest Activity</b></h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ailishev&theme=react&bg_color=22272e&color=ffffff&line=2b2b2b&point=ffffff&area=true&radius=10&border_radius=10" alt="Activity Feed" />
 </div>
