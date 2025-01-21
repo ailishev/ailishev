@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ailishev!;" />
 </h1>
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ailishev&style=flat-square&color=brightgreen" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ailishev?style=flat-square&color=blue" alt="Followers" />
@@ -37,11 +36,10 @@
 
 <h2 align="center"><b>⭐ GitHub Stats</b></h2>
 <div align="center">
- ![ailishev GitHub stats](https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=radical" alt="ailishev GitHub Stats" />
 </div>
 
 <h2 align="center"><b>📈 More Stats</b></h2>
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailishev&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
-
