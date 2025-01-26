@@ -39,8 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ailishev&show_icons=true&theme=dark&hide=prs" alt="ailishev GitHub Stats" />
 </div>
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ailishev/ailishev/output/snake.svg" alt="Snake animation" />
-
-###
